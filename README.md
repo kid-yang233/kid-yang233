@@ -11,9 +11,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-yang233)](https://github.com/anuraghazra/github-readme-stats)
 
 ### contact:
+* e-mail：jayjaysb@stu.xjtu.edu.cn
 
-  *1. e-mail：jayjaysb@stu.xjtu.edu.cn
-  *2. QQ：2638297794
-  *3. WeChat：jayjaysb
+* QQ：2638297794
+  
+* WeChat：jayjaysb
 
 My coding is not very high, if there is any problem with my code, please point it out and contact me in time, I will be very grateful.🥺🥺🥺
