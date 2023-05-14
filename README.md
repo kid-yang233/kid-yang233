@@ -30,10 +30,6 @@
 ### contact:
 * e-mail：jayjaysb@stu.xjtu.edu.cn
 
-* QQ：2638297794
-  
-* WeChat：jayjaysb
-
 ### More
 
 My coding is not very high, if there is any problem with my code, please point it out and contact me in time, I will be very grateful.🥺🥺🥺
