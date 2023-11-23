@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-yang233)](https://github.com/anuraghazra/github-readme-stats)
 
 ### contact:
-* e-mail：jayjaysb@stu.xjtu.edu.cn
+* e-mail：jayjaysb@stu.xjtu.edu.cn & kidsomebodyjay@gmail.com
 
 ### More
 
